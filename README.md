@@ -13,6 +13,9 @@ So I am sharing it in hopes it helps someone else.
 - **Persistent Close Button**: Always-visible button to terminate processes and restart applications
 - **Process Management**: Close and restart configured processes when exiting
 
+  
+<img width="2560" height="1440" alt="Screenshot 2025-11-03 130507" src="https://github.com/user-attachments/assets/a8315ab9-7c71-4668-b297-ef711da3f719" />
+
 
 ## Quick Start
 
@@ -102,3 +105,4 @@ Output: `bin\Release\net6.0-windows\win-x64\publish\KioskShellHelper.exe`
 ## License
 
 MIT
+
